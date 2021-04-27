@@ -4,3 +4,9 @@
 [submodule "mushr_mtpnav_sim"]
 	path = mushr_mtpnav_sim
 	url = https://github.com/alexlin2/mushr_mtpnav_sim.git
+[submodule "2d_data_collector"]
+	path = 2d_data_collector
+	url = https://github.com/madan96/2d_data_collector.git
+[submodule "algames-dc"]
+	path = algames-dc
+	url = https://github.com/madan96/algames-dc.git
