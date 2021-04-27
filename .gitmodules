@@ -1,0 +1,6 @@
+[submodule "mushr_rhc"]
+	path = mushr_rhc
+	url = https://github.com/alexlin2/mushr_rhc.git
+[submodule "mushr_mtpnav_sim"]
+	path = mushr_mtpnav_sim
+	url = https://github.com/alexlin2/mushr_mtpnav_sim.git
